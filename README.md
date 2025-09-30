@@ -1,12 +1,12 @@
-Лабораторна робота №2 — C++ (ALK-43)
+Lab Work №2 — C++ (ALK-43)
 
- Завдання 2 (Варіант 12)
+Task 2 (Variant 12)
 
- Тема
-Розгалужені структури та циклічні алгоритми в мові C++.
+Topic
+Branching structures and loop algorithms in C++.
 
- Мета
-Навчитися складати програми з розгалуженою структурою та опанувати оператори циклу.
+Objective
+Learn how to create programs with branching structures and practice using loop operators.
 
- Опис
-Програма реалізує обчислення значення функції залежно від умов для змінних `x` та `a`.  
+Description
+The program calculates the value of a function depending on the given conditions for variables `x` and `a`.
